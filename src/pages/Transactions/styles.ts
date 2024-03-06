@@ -23,8 +23,8 @@ export const TransactionsTable = styled.table`
         }
 
         &:last-child {
-            border-top-left-radius: 6px;
-            border-bottom-left-radius: 6px;
+            border-top-right-radius: 6px;
+            border-bottom-right-radius: 6px;
         }
     }
 `;
