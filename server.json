@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Vendas",
-            "price": 14000,
-            "createdAt": "2024-02-19T08:42:44.505z"
-        },
-        {
-            "id": 2,
-            "description": "Humburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-02-19T08:40:44.505z"
-        },
-        {
-            "id": 3,
-            "description": "Curso Programação",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1960,
-            "createdAt": "2024-03-05T15:15:20.505z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Vendas",
+      "price": 14000,
+      "createdAt": "2024-02-19T08:42:44.505z"
+    },
+    {
+      "id": 2,
+      "description": "Humburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-02-19T08:40:44.505z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Programação",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1960,
+      "createdAt": "2024-03-05T15:15:20.505z"
+    },
+    {
+      "description": "vestido",
+      "category": "Vestimenta",
+      "price": 90,
+      "type": "outcome",
+      "createdAt": "2024-03-06T17:53:47.032Z",
+      "id": 4
+    },
+    {
+      "description": "açai",
+      "category": "Alimentação",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2024-03-06T17:54:06.733Z",
+      "id": 5
+    }
+  ]
 }
